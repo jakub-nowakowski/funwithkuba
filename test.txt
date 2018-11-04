@@ -2,4 +2,4 @@ to jest pierwsza linia
 to jest druga
 a to normalnie walduś jest trzecia
 a to ferdku jest czwarta i tak dalej
-dodajemy piątą linię
+dodajemy piątą linię wersja kuby
