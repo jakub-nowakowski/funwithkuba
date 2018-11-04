@@ -1,0 +1,3 @@
+to jest pierwsza linia
+to jest druga
+a to normalnie walduś jest trzecia
